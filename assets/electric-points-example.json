@@ -728,7 +728,7 @@
     },
     {
       "id": 56,
-      "x": 855,
+      "x": 857,
       "y": 626,
       "heightCm": 30,
       "type": "socket",
@@ -823,7 +823,7 @@
       "id": 63,
       "x": 1014,
       "y": 136,
-      "heightCm": 120,
+      "heightCm": 115,
       "type": "socket",
       "precedingPointId": 64,
       "boxType": "deep",
@@ -892,9 +892,9 @@
     },
     {
       "id": 68,
-      "x": 1008,
-      "y": 537,
-      "heightCm": 120,
+      "x": 1009,
+      "y": 540,
+      "heightCm": 115,
       "type": "socket",
       "precedingPointId": 67,
       "boxType": "deep",
@@ -909,7 +909,7 @@
       "id": 69,
       "x": 1007,
       "y": 569,
-      "heightCm": 120,
+      "heightCm": 115,
       "type": "socket",
       "precedingPointId": 68,
       "boxType": "deep",
@@ -922,9 +922,9 @@
     },
     {
       "id": 70,
-      "x": 953,
-      "y": 621,
-      "heightCm": 120,
+      "x": 955,
+      "y": 625,
+      "heightCm": 115,
       "type": "socket",
       "precedingPointId": 69,
       "boxType": "deep",
@@ -937,9 +937,9 @@
     },
     {
       "id": 71,
-      "x": 927,
-      "y": 619,
-      "heightCm": 120,
+      "x": 928,
+      "y": 627,
+      "heightCm": 115,
       "type": "socket",
       "precedingPointId": 70,
       "boxType": "deep",
@@ -960,6 +960,7 @@
       "boxType": "deep",
       "cableThickness": 2.5,
       "wireCount": 3,
+      "socketType": "double",
       "installation": "utility",
       "room": "Kuchnia",
       "roomId": "21"
@@ -1124,6 +1125,21 @@
       "installation": "lighting",
       "room": "Kuchnia",
       "roomId": "28"
+    },
+    {
+      "id": 86,
+      "x": 902,
+      "y": 626,
+      "heightCm": 115,
+      "type": "socket",
+      "precedingPointId": 71,
+      "boxType": "deep",
+      "cableThickness": 2.5,
+      "wireCount": 3,
+      "socketType": "single",
+      "installation": "utility",
+      "room": "Kuchnia",
+      "roomId": "29"
     }
   ],
   "statistics": {
@@ -1131,7 +1147,7 @@
       {
         "cableThickness": 2.5,
         "wireCount": 3,
-        "totalLengthCm": 18000.599999999995
+        "totalLengthCm": 18230.999999999996
       },
       {
         "cableThickness": "4",
@@ -1152,7 +1168,7 @@
     "boxes": [
       {
         "boxType": "deep",
-        "count": 45
+        "count": 46
       },
       {
         "boxType": "medium",
